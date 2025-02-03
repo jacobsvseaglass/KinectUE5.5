@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jacob\\documents\\personalprojects\\kinecttest\\plugins\\kinect-body-tracking-unreal-engine-plugin\\source\\azurekinect\\private\\azurekinectmodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jacob\\documents\\personalprojects\\kinecttest\\intermediate\\build\\win64\\x64\\kinecttesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jacob\\documents\\personalprojects\\kinecttest\\plugins\\kinect-body-tracking-unreal-engine-plugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\azurekinect\\definitions.azurekinect.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

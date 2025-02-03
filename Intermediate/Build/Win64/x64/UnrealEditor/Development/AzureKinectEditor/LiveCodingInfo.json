@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AzureKinectEditor.cpp.obj": [
+			"AnimGraphNode_AzureKinectPose.gen.cpp.obj",
+			"AzureKinectDeviceFactory.gen.cpp.obj",
+			"AzureKinectEditor.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"AnimGraphNode_AzureKinectPose.cpp.obj",
+			"AzureKinectDeviceActions.cpp.obj",
+			"AzureKinectEditor.cpp.obj",
+			"AzureKinectDeviceCustomization.cpp.obj",
+			"AzureKinectDeviceFactory.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AzureKinect-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jacob\Documents\Digipen\GAM390\MOMI_Strata\strata\Intermediate\Build\Win64\x64\StrataEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\jacob\Documents\Digipen\GAM390\MOMI_Strata\strata\Plugins\Kinect-Body-Tracking-Unreal-Engine-Plugin\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AzureKinect\Module.AzureKinect.cpp.obj"
+"C:\Users\jacob\Documents\Digipen\GAM390\MOMI_Strata\strata\Plugins\Kinect-Body-Tracking-Unreal-Engine-Plugin\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AzureKinect\Default.rc2.res"
+/OUT:"C:\Users\jacob\Documents\Digipen\GAM390\MOMI_Strata\strata\Plugins\Kinect-Body-Tracking-Unreal-Engine-Plugin\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AzureKinect\UnrealEditor-AzureKinect-Win64-DebugGame.lib"

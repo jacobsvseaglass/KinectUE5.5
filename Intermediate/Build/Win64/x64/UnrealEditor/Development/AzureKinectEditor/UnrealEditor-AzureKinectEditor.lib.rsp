@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AzureKinectEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jacob\Documents\PersonalProjects\KinectTest\Intermediate\Build\Win64\x64\KinectTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\jacob\Documents\PersonalProjects\KinectTest\Plugins\Kinect-Body-Tracking-Unreal-Engine-Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AzureKinectEditor\Module.AzureKinectEditor.cpp.obj"
+"C:\Users\jacob\Documents\PersonalProjects\KinectTest\Plugins\Kinect-Body-Tracking-Unreal-Engine-Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AzureKinectEditor\AzureKinectEditor.cpp.obj"
+"C:\Users\jacob\Documents\PersonalProjects\KinectTest\Plugins\Kinect-Body-Tracking-Unreal-Engine-Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AzureKinectEditor\AnimGraphNode_AzureKinectPose.cpp.obj"
+"C:\Users\jacob\Documents\PersonalProjects\KinectTest\Plugins\Kinect-Body-Tracking-Unreal-Engine-Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AzureKinectEditor\AzureKinectDeviceActions.cpp.obj"
+"C:\Users\jacob\Documents\PersonalProjects\KinectTest\Plugins\Kinect-Body-Tracking-Unreal-Engine-Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AzureKinectEditor\AzureKinectDeviceCustomization.cpp.obj"
+"C:\Users\jacob\Documents\PersonalProjects\KinectTest\Plugins\Kinect-Body-Tracking-Unreal-Engine-Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AzureKinectEditor\AzureKinectDeviceFactory.cpp.obj"
+"C:\Users\jacob\Documents\PersonalProjects\KinectTest\Plugins\Kinect-Body-Tracking-Unreal-Engine-Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AzureKinectEditor\Default.rc2.res"
+/OUT:"C:\Users\jacob\Documents\PersonalProjects\KinectTest\Plugins\Kinect-Body-Tracking-Unreal-Engine-Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AzureKinectEditor\UnrealEditor-AzureKinectEditor.lib"

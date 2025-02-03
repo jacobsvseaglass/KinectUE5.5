@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jacob\\documents\\digipen\\gam390\\momi_strata\\strata\\plugins\\kinect-body-tracking-unreal-engine-plugin\\intermediate\\build\\win64\\unrealeditor\\inc\\azurekinecteditor\\uht\\azurekinectdevicefactory.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jacob\\documents\\digipen\\gam390\\momi_strata\\strata\\intermediate\\build\\win64\\x64\\strataeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\jacob\\documents\\digipen\\gam390\\momi_strata\\strata\\plugins\\kinect-body-tracking-unreal-engine-plugin\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\azurekinecteditor\\definitions.azurekinecteditor.h",
+            "c:\\users\\jacob\\documents\\digipen\\gam390\\momi_strata\\strata\\plugins\\kinect-body-tracking-unreal-engine-plugin\\source\\azurekinecteditor\\private\\factories\\azurekinectdevicefactory.h",
+            "c:\\users\\jacob\\documents\\digipen\\gam390\\momi_strata\\strata\\plugins\\kinect-body-tracking-unreal-engine-plugin\\intermediate\\build\\win64\\unrealeditor\\inc\\azurekinecteditor\\uht\\azurekinectdevicefactory.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
